@@ -1,0 +1,25 @@
+
+    body{
+    background-color:#edf0f5
+}
+.section{
+    background-color:  #3b5998;
+    height: 80px;
+}
+.border-bottom{
+    background-color: black;
+    height: 2px;
+    
+
+    
+}
+.login-button{
+    border: 2px solid navy;
+    height: 31px;
+    padding-left: 4x;
+    padding-right: 4px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    
+}
+
